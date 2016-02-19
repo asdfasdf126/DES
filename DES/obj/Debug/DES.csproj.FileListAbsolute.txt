@@ -1,0 +1,7 @@
+D:\asdfa\Documents\GitHub\DES\DES\DES\bin\Debug\DES.exe.config
+D:\asdfa\Documents\GitHub\DES\DES\bin\Debug\DES.exe.config
+D:\asdfa\Documents\GitHub\DES\DES\bin\Debug\DES.exe
+D:\asdfa\Documents\GitHub\DES\DES\bin\Debug\DES.pdb
+D:\asdfa\Documents\GitHub\DES\DES\obj\Debug\DES.csprojResolveAssemblyReference.cache
+D:\asdfa\Documents\GitHub\DES\DES\obj\Debug\DES.exe
+D:\asdfa\Documents\GitHub\DES\DES\obj\Debug\DES.pdb
